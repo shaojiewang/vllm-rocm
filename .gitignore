@@ -1,3 +1,7 @@
+# prof
+prof_res/
+prof_res.tar
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
